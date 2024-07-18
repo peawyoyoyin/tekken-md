@@ -9,13 +9,13 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "peggy": "^4.0.3",
+    "peggy": "^3.0.2",
     "typescript": "^5.2.2",
     "vite": "^5.3.1",
-    "vitest": "^2.0.2"
+    "vitest": "^2.0.2",
+    "vite-plugin-peggy-loader": "^2.0.0"
   },
   "dependencies": {
-    "marked": "^13.0.2",
-    "vite-plugin-peggy-loader": "^2.0.0"
+    "marked": "^13.0.2"
   }
 }
