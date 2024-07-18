@@ -1,12 +1,12 @@
 Tekken MD
----------
+=========
 
 Markdown extension that renders `{tk: <move notation>}` into tekken button icons.
 
 See syntax in the [Move Notation Specs](./NOTATION_SPECS.md)
 
 Development
-===========
+---------
 
 ### Install Dependencies
 
