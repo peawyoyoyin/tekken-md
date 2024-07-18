@@ -1,0 +1,21 @@
+{
+  "name": "tekken-md",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "peggy": "^4.0.3",
+    "typescript": "^5.2.2",
+    "vite": "^5.3.1",
+    "vitest": "^2.0.2"
+  },
+  "dependencies": {
+    "marked": "^13.0.2",
+    "vite-plugin-peggy-loader": "^2.0.0"
+  }
+}
