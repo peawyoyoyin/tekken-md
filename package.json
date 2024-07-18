@@ -12,8 +12,9 @@
     "peggy": "^3.0.2",
     "typescript": "^5.2.2",
     "vite": "^5.3.1",
+    "vite-plugin-peggy-loader": "^2.0.0",
     "vitest": "^2.0.2",
-    "vite-plugin-peggy-loader": "^2.0.0"
+    "gh-pages": "^6.1.1"
   },
   "dependencies": {
     "marked": "^13.0.2"
