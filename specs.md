@@ -116,7 +116,6 @@ For commonly-used long strings/chords, abbreviations can be used instead. Abbrev
 
 ### List of abbreviations
 
-
 | term   | equivalent to | note                             |
 | ------ | ------------- | -------------------------------- |
 | `EWGF` | `f,n,d,df2`   | "Electric Wind God Fist"         |
