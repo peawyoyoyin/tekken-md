@@ -1,7 +1,7 @@
 import path from 'path'
 import fs from 'fs';
 
-const folderPath = path.resolve(__dirname, '../src/icons/buttons/')
+const folderPath = path.resolve(__dirname, '../public/icons/buttons/')
 
 function generateIcons() {
   for (let i = 1; i < 16; i++) {

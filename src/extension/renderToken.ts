@@ -11,7 +11,7 @@ export const renderToken = (symbol: Token): string => {
         case 'divider':
           return ','
         default:
-          return `<img src="./src/icons/${symbol.glyph}.svg" width="16px" height="16px">`
+          return `<img src="${import.meta.env.BASE_URL}icons/${symbol.glyph}.svg" width="16px" height="16px">`
       }
     case "stance":
       return `[${symbol.text}]&nbsp;`
